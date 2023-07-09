@@ -37,6 +37,7 @@ local.properties
 build/
 gradle/
 gradlew
+gradlew.sh
 gradlew.bat
 gradle.properties
 gradle.properties.kts
