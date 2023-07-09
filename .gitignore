@@ -36,6 +36,12 @@ local.properties
 .idea/
 build/
 gradle/
+gradlew
+gradlew.bat
+gradle.properties
+gradle.properties.kts
+gradle-wrapper.jar
+gradle-wrapper.properties
 
 # Ignore all build directories
 **/build/*
