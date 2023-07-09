@@ -36,18 +36,16 @@ local.properties
 .idea/
 build/
 gradle/
-gradlew
+gradlew.sh
 gradlew.bat
 
 # Ignore all build directories
 **/build/*
 
 # Ignore NDK intermediate and final build outputs
-**/build/intermediates/cxx/Debug/*
-**/build/intermediates/cxx/tools/*
-
-# Java class files
-*.class
+app/build/intermediates/cxx/Debug/*
+app/build/intermediates/cxx/tools/*
+app/.cxx/*
 
 # Eclipse project files
 .classpath
