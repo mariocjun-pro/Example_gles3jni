@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/mario/AndroidStudioProjects/gles3jni/app/src/main/cpp
+# Install script for directory: C:/Users/mario/IdeaProjects/Example_gles3jni/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/mario/AndroidStudioProjects/gles3jni/app/.cxx/Debug/6g69l2n6/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/mario/IdeaProjects/Example_gles3jni/app/.cxx/Debug/6g69l2n6/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,9 +1,5 @@
 # ninja log v5
-26	167	7105686380695979	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	68029928bb35b99c
-15	170	7105686380705977	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	13b8dd1445ec159f
-3	222	7105686381225924	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	e6ee7ab49d90ee00
-223	449	7105686383275930	C:/Users/mario/AndroidStudioProjects/gles3jni/app/build/intermediates/cxx/Debug/6g69l2n6/obj/x86_64/libgles3jni.so	ac58702831c20969
-16	153	7105687534574710	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	c7ac681839d062b9
-34	183	7105687534874715	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	a746d7d40ded8d17
-3	185	7105687534884714	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	f32133408e489ef3
-185	325	7105687536204708	C:/Users/mario/AndroidStudioProjects/gles3jni/app/build/intermediates/cxx/Debug/6g69l2n6/obj/x86_64/libgles3jni.so	4aeb4fc16b106bdf
+13	384	7105691116659014	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	d0595f5a0acced02
+26	390	7105691116659014	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	f7e91c5a17ffab88
+1	463	7105691117541073	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	f3e03a7d7eaf09fd
+464	604	7105691118827498	C:/Users/mario/IdeaProjects/Example_gles3jni/app/build/intermediates/cxx/Debug/6g69l2n6/obj/x86_64/libgles3jni.so	90ead956e3bebb82

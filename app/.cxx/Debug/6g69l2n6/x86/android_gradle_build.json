@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "C:\\Users\\mario\\AndroidStudioProjects\\gles3jni\\app\\src\\main\\cpp\\CMakeLists.txt"
+    "C:\\Users\\mario\\IdeaProjects\\Example_gles3jni\\app\\src\\main\\cpp\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "C:\\Users\\mario\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "C:\\Users\\mario\\AndroidStudioProjects\\gles3jni\\app\\.cxx\\Debug\\6g69l2n6\\x86",
+      "C:\\Users\\mario\\IdeaProjects\\Example_gles3jni\\app\\.cxx\\Debug\\6g69l2n6\\x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "C:\\Users\\mario\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "C:\\Users\\mario\\AndroidStudioProjects\\gles3jni\\app\\.cxx\\Debug\\6g69l2n6\\x86",
+    "C:\\Users\\mario\\IdeaProjects\\Example_gles3jni\\app\\.cxx\\Debug\\6g69l2n6\\x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "x86",
       "artifactName": "gles3jni",
-      "output": "C:\\Users\\mario\\AndroidStudioProjects\\gles3jni\\app\\build\\intermediates\\cxx\\Debug\\6g69l2n6\\obj\\x86\\libgles3jni.so",
+      "output": "C:\\Users\\mario\\IdeaProjects\\Example_gles3jni\\app\\build\\intermediates\\cxx\\Debug\\6g69l2n6\\obj\\x86\\libgles3jni.so",
       "runtimeFiles": []
     }
   },

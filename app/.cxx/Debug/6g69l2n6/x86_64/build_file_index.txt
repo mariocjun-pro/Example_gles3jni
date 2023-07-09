@@ -1,1 +1,1 @@
-C:\Users\mario\AndroidStudioProjects\gles3jni\app\src\main\cpp\CMakeLists.txt
+C:\Users\mario\IdeaProjects\Example_gles3jni\app\src\main\cpp\CMakeLists.txt
