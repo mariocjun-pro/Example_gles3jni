@@ -36,8 +36,6 @@ local.properties
 .idea/
 build/
 gradle/
-gradlew.sh
-gradlew.bat
 
 # Ignore all build directories
 **/build/*
