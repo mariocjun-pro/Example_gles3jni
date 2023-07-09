@@ -1,0 +1,3 @@
+C:/Users/mario/AndroidStudioProjects/gles3jni/app/.cxx/Debug/i423992r/x86_64/CMakeFiles/gles3jni.dir
+C:/Users/mario/AndroidStudioProjects/gles3jni/app/.cxx/Debug/i423992r/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/mario/AndroidStudioProjects/gles3jni/app/.cxx/Debug/i423992r/x86_64/CMakeFiles/rebuild_cache.dir
