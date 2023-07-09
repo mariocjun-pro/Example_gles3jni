@@ -20,15 +20,17 @@
       android:allowBackup="false"
       android:fullBackupContent="false"
       android:icon="@mipmap/ic_launcher"
+      android:dataExtractionRules="@xml/data_extraction_rules"
       android:label="@string/gles3jni_activity">
-    <activity android:name="GLES3JNIActivity"
-              android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-              android:launchMode="singleTask"
-              android:configChanges="orientation|keyboardHidden"
+    <activity
+        android:name="GLES3JNIActivity"
+        android:configChanges="orientation|keyboardHidden"
+        android:launchMode="singleTask"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
         android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
   </application>
