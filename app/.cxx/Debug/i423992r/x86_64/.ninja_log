@@ -1,5 +1,0 @@
-# ninja log v5
-9	195	7105679192706865	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	c7ac681839d062b9
-16	199	7105679192706865	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	a746d7d40ded8d17
-0	250	7105679193241187	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	f32133408e489ef3
-250	403	7105679194639745	C:/Users/mario/AndroidStudioProjects/gles3jni/app/build/intermediates/cxx/Debug/i423992r/obj/x86_64/libgles3jni.so	46854c4bb3af0c25

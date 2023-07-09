@@ -1,3 +1,0 @@
-C:/Users/mario/IdeaProjects/Example_gles3jni/app/.cxx/Debug/6g69l2n6/x86/CMakeFiles/gles3jni.dir
-C:/Users/mario/IdeaProjects/Example_gles3jni/app/.cxx/Debug/6g69l2n6/x86/CMakeFiles/edit_cache.dir
-C:/Users/mario/IdeaProjects/Example_gles3jni/app/.cxx/Debug/6g69l2n6/x86/CMakeFiles/rebuild_cache.dir
